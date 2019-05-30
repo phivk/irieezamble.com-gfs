@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{220:function(t){t.exports={data:{post:{title:"Gridsome with Forestry CMS starter-kit",author:"Nichlas W. Andersen",date:"Invalid date",timeToRead:1,content:'<h4 id="my-blog-post"><a href="#my-blog-post" aria-hidden="true"><span class="icon icon-link"></span></a>My blog post</h4>\n<p>Empty post</p>\n'}}}}}]);

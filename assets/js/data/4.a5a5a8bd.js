@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{219:function(e){e.exports={data:{post:{title:"Use VueJS for your next project",author:"Nichlas W. Andersen",date:"Invalid date",timeToRead:1,content:"\n"}}}}}]);
